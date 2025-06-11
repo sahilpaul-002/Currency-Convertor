@@ -1,12 +1,6 @@
 # 🌍 Currency Convertor App
 The Currency Convertor App is a web-based tool that allows users to convert amounts from one currency to another using real-time exchange rates.
 
-🔗 Live Demo
-https://yourcurrencyconvertor.netlify.app/
-
-📁 Repository
-GitHub – sahilpaul-002/Currency-Convertor
-
 ✨ Features
 🔢 Convert between over 160 currencies
 
